@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.muc.MUCPersistencePlugin</class>
+    <name>mucPlugin</name>
+    <description>save user nike name.</description>
+    <author>li hai yang</author>
+    <version>${project.version}</version>
+    <date>1/9/2021</date>
+    <minServerVersion>4.5.0</minServerVersion>
+
+</plugin>
